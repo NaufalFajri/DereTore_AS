@@ -189,7 +189,7 @@ namespace DereTore.Apps.AcbMaker {
                 AcbGuid = acbGuid.ToByteArray(),
                 StreamAwbHash = new byte[0x10],
                 StreamAwbTocWork_Old = null,
-                AcbVolume = 1f,
+                AcbVolume = 3.125f,
                 StringValueTable = null,
                 OutsideLinkTable = null,
                 BlockSequenceTable = null,
